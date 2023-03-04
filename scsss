@@ -1,0 +1,13 @@
+$primary-color:#1d77ef;
+$secondary-color:#1d77ef;
+$tertiary-color:#FFFFFF;
+
+
+$primary-background-color:#E3E9FF;
+$secondary-background-color: $tertiary-color;
+$tertiary-background-color: $primary-color;
+
+$primary-text-color:$secondary-color;
+$secondary-text-color:$tertiary-color;
+
+$danger-color:#FF002E;
